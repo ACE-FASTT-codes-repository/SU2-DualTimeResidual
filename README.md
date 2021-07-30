@@ -1,4 +1,4 @@
-#SU2 (ver. 6.2.0 "Falcon") Dual Time Residual
+# SU2 (ver. 6.2.0 "Falcon") Dual Time Residual
 
 SU2 suite modified to compute unsteady residual of external solutions
 
